@@ -1,0 +1,13 @@
+nis = input("Masukkan NIS:")
+nama = input("Masukkan Nama:")
+jk = input("Masukkan Jenis Kelamin:")
+rombel = input("Masukkan Rombel:")
+rayon = input("Masukkan Rayon:")
+tmpt_lahir = input("Masukkan Tempat Lahir:")
+tgl_lahir = input("Masukkan Tanggal Lahir:")
+smp = input("Masukkan Asal SMP:")
+alamat = input("Masukkan Alamat:")
+
+print("===BIODATA DIRI===")
+print("NIS: ", nis, "\nNAMA: ", nama, "\nJenis Kelamin:", jk, "\nRombel: ", rombel, "\nRayon: ", rayon)
+print("Tempat Lahir: ", tmpt_lahir, "\nTanggal Lahir: ", tgl_lahir, "\nAsal SMP: ", smp, "\nAlamat: ", alamat)
